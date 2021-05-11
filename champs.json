@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Lex",
+        "role":"Hunter",
+        "dmg":"700"
+    },
+    {
+        "name":"Dredge",
+        "role":"Tank",
+        "dmg":"550"
+    }
+]
